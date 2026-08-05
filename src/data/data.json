@@ -1,0 +1,179 @@
+{
+  "Header": {
+    "title": "Empowering Your Business with Smart IT Solutions",
+    "paragraph": "Full-stack software development, cloud infrastructure, cybersecurity, and IT consulting. We build reliable, scalable technology that helps your business grow."
+  },
+  "Features": [
+    {
+      "icon": "support",
+      "title": "24/7 IT Support",
+      "text": "Round-the-clock technical support and monitoring to keep your systems running smoothly, day and night."
+    },
+    {
+      "icon": "cloud",
+      "title": "Cloud Solutions",
+      "text": "Secure, scalable cloud infrastructure and migration services built on AWS, Azure, and Google Cloud."
+    },
+    {
+      "icon": "team",
+      "title": "Expert IT Consultants",
+      "text": "A team of certified engineers and consultants dedicated to aligning technology with your business goals."
+    },
+    {
+      "icon": "code",
+      "title": "Custom Software",
+      "text": "Tailor-made software and mobile applications engineered around your unique business requirements."
+    }
+  ],
+  "About": {
+    "paragraph": "We are an IT company dedicated to delivering reliable technology solutions that help businesses of every size operate smarter, safer, and faster.",
+    "Why": [
+      "We deliver secure, scalable systems built to last.",
+      "We provide fast, responsive technical support.",
+      "We deliver our projects on time, every time.",
+      "We help you adopt the right technology to grow."
+    ],
+    "Why2": [
+      "We value our clients' time and budget.",
+      "Our team is 10+ years experienced in IT services.",
+      "We have supported 500+ businesses worldwide.",
+      "We provide certified, industry-best expertise."
+    ]
+  },
+  "Services": [
+    {
+      "icon": "code",
+      "name": "Software Development",
+      "text": "We design and build custom web, mobile, and enterprise applications using modern, scalable technology stacks."
+    },
+    {
+      "icon": "cloud",
+      "name": "Cloud & Infrastructure",
+      "text": "We plan, migrate, and manage cloud infrastructure so your systems stay fast, secure, and always available."
+    },
+    {
+      "icon": "consulting",
+      "name": "IT Consulting",
+      "text": "We assess your technology stack and provide strategic guidance to help you make smarter IT investments."
+    },
+    {
+      "icon": "security",
+      "name": "Cybersecurity",
+      "text": "We protect your business with network security, threat monitoring, and data protection best practices."
+    },
+    {
+      "icon": "analytics",
+      "name": "Data & Analytics",
+      "text": "We turn your raw data into actionable insights with dashboards, reporting tools, and analytics pipelines."
+    },
+    {
+      "icon": "managed",
+      "name": "Managed IT Services",
+      "text": "We handle day-to-day IT operations, maintenance, and helpdesk support so your team can focus on the business."
+    }
+  ],
+  "Gallery": [
+    {
+      "title": "Cloud Migration Platform",
+      "smallImage": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=80"
+    },
+    {
+      "title": "Enterprise Dashboard",
+      "smallImage": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80"
+    },
+    {
+      "title": "Mobile Banking App",
+      "smallImage": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80"
+    },
+    {
+      "title": "Data Center Upgrade",
+      "smallImage": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&q=80"
+    },
+    {
+      "title": "Network Security System",
+      "smallImage": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=600&q=80"
+    },
+    {
+      "title": "E-Commerce Platform",
+      "smallImage": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=80"
+    },
+    {
+      "title": "AI Analytics Tool",
+      "smallImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=80"
+    },
+    {
+      "title": "DevOps Pipeline",
+      "smallImage": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&q=80"
+    },
+    {
+      "title": "IT Helpdesk Portal",
+      "smallImage": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=600&q=80"
+    }
+  ],
+  "Testimonials": [
+    {
+      "text": "Their team migrated our entire infrastructure to the cloud with zero downtime. Communication was excellent throughout the whole project.",
+      "name": "Sarah Mitchell",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?w=200&q=80"
+    },
+    {
+      "text": "We've relied on their managed IT services for three years now. Our systems have never been more stable or secure.",
+      "name": "David Chen",
+      "img": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&q=80"
+    },
+    {
+      "text": "The custom software they built streamlined our operations and saved us countless hours every week.",
+      "name": "Priya Sharma",
+      "img": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200&q=80"
+    },
+    {
+      "text": "Responsive, knowledgeable, and always available. Their 24/7 support has been a game changer for our business.",
+      "name": "Michael Torres",
+      "img": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=200&q=80"
+    },
+    {
+      "text": "Their cybersecurity audit uncovered issues we didn't know existed and helped us fix them fast.",
+      "name": "Emily Roberts",
+      "img": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?w=200&q=80"
+    },
+    {
+      "text": "A true technology partner. They understand our business goals, not just our tech stack.",
+      "name": "James Anderson",
+      "img": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=200&q=80"
+    }
+  ],
+  "Team": [
+    {
+      "name": "Alex Johnson",
+      "job": "Chief Technology Officer",
+      "img": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400&q=80",
+      "linkedin": "https://linkedin.com"
+    },
+    {
+      "name": "Mike Peterson",
+      "job": "Lead Software Engineer",
+      "img": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?w=400&q=80",
+      "linkedin": "https://linkedin.com"
+    },
+    {
+      "name": "Jane Lee",
+      "job": "Cloud Solutions Architect",
+      "img": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&q=80",
+      "linkedin": "https://linkedin.com"
+    },
+    {
+      "name": "Karen Williams",
+      "job": "IT Project Manager",
+      "img": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400&q=80",
+      "linkedin": "https://linkedin.com"
+    }
+  ],
+  "Contact": {
+    "address": "Khahare, Dakshinakali-01, Kathmandu",
+    "phone": "+977 9827812562",
+    "email": "anujkarn2562@gmail.com",
+    "facebook": "https://www.facebook.com/share/1938C3xC81/",
+    "twitter": "https://twitter.com",
+    "youtube": "https://youtube.com"
+  }
+}
